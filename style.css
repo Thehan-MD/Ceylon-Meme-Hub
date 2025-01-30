@@ -1,0 +1,17 @@
+body {
+    background-color: #f0f8ff; /* Light Blue */
+    color: #000;
+    font-family: Arial, sans-serif;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+nav {
+    display: none;
+}
+#menu-icon {
+    width: 50px;
+    cursor: pointer;
+}
